@@ -4,6 +4,8 @@ Made with Laravel Lumen framework.
 
 A local MySQL server instance and database was used.
 
+![Db structure diagram](blog_erd.png?raw=true "DB structure")
+
 In .env file:
 
 ```
